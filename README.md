@@ -10,16 +10,20 @@
 ---
 
 <h3>📌 Featured Projects</h3>
-<table border="0">
+<table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🤘 Roaming Bevo</h4>
-      <p>A Chrome Extension designed to enhance the UT Austin Canvas experience.</p>
-      <code>JavaScript</code> <code>CSS</code> <code>Chrome API</code>
+      <h4>🌱 Website for (un)Jaded</h4>
+      <p>The official website for (un)Jaded, an AAPI mental health student organization at UT Austin.</p>
+      <a href="https://github.com/jnguyen0101/-un-jaded">Repo</a>
+      <br/><br/>
+      <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
     </td>
     <td width="50%" valign="top">
-      <h4>🐧 Pintos</h4>
-      <p>A toy OS with functionality including kernel threads, user programs, and file systems.</p>
+      <h4>🖥️ Pintos OS</h4>
+      <p>A toy OS with basic functionality including user programs and file systems.</p>
+      <a href="https://github.com/jnguyen0101/pintos">Repo</a>
+      <br/><br/>
       <code>C</code> <code>Systems Programming</code> <code>OS</code>
     </td>
   </tr>
