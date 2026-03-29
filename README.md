@@ -117,7 +117,8 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/jnguyen0101"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jnguyen0101&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true"/></a> <a href="https://github.com/jnguyen0101"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnguyen0101&theme=transparent&layout=compact&stats_format=bytes&hide_border=true"/></a>
+  <a href="https://github.com/jnguyen0101"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnguyen0101&theme=transparent&layout=compact&stats_format=bytes&hide_border=true"/>
+  </a>
 </div>
 
 <div align="center">
