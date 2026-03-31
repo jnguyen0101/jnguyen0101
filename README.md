@@ -44,6 +44,14 @@
       <br />C
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48"/>
+      <br />C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cs" width="48" height="48"/>
+      <br />C#
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=python" width="48" height="48"/>
       <br />Python
     </td>
@@ -67,10 +75,6 @@
       <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48"/>
       <br />Bootstrap
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48"/>
-      <br />React
-    </td>
   </tr>
 </table>
 
@@ -85,12 +89,12 @@
       <br />Git
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48"/>
-      <br />Cloudflare
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48"/>
       <br />VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48"/>
+      <br />VS
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=eclipse" width="48" height="48"/>
@@ -103,6 +107,10 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=pycharm" width="48" height="48"/>
       <br />PyCharm
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=unity" width="48" height="48"/>
+      <br />Unity
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=figma" width="48" height="48"/>
