@@ -125,7 +125,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/jnguyen0101"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnguyen0101&theme=transparent&layout=compact&stats_format=bytes&hide_border=true"/>
+  <a href="https://github.com/jnguyen0101"><img height=200 align="center" src="https://github-readme-stats-ruby-theta-81.vercel.app/api/top-langs/?username=jnguyen0101&theme=transparent&layout=compact&stats_format=bytes&hide_border=true"/>
   </a>
 </div>
 
