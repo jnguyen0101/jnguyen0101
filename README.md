@@ -17,7 +17,7 @@
       <p>The official website for (un)Jaded, an AAPI mental health student organization at UT Austin.</p>
       <a href="https://github.com/jnguyen0101/-un-jaded">Repo</a>
       <br/><br/>
-      <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+      <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Web Development</code>
     </td>
     <td width="50%" valign="top">
       <h4>🖥️ Pintos OS</h4>
