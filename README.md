@@ -121,14 +121,6 @@
 
 ---
 
-<h3>📈 GitHub Stats</h3>
-
-<br />
-<div align="center">
-  <a href="https://github.com/jnguyen0101"><img height=200 align="center" src="https://github-readme-stats-ruby-theta-81.vercel.app/api/top-langs/?username=jnguyen0101&theme=transparent&layout=compact&stats_format=bytes&hide_border=true"/>
-  </a>
-</div>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jnguyen0101/jnguyen0101/output/github-contribution-grid-snake-dark.svg">
